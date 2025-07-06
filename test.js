@@ -14,4 +14,5 @@ function multiply(a, b) {
 
 assert.strictEqual(multiply(1, 1), 1);
 
+assertEqual(multiply(2, 2), 4);
 
