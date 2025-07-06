@@ -31,5 +31,7 @@ assertEqual(multiply(3, 3), 9);
 //cycle four
 assertEqual(multiply(4, 4), 16);
 
+//cycle five
+assertEqual(multiply(23, 45), 23*45);
 
 
