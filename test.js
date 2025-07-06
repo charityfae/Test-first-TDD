@@ -28,5 +28,8 @@ assertEqual(multiply(2, 2), 4);
 //cycle three
 assertEqual(multiply(3, 3), 9);
 
+//cycle four
+assertEqual(multiply(4, 4), 16);
+
 
 
