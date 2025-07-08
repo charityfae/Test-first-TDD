@@ -1,4 +1,4 @@
-// Evelyn Uwase and Ojera Charity Faith
+// Evelyn Uwase and Ojera Charity Faith and Darvin Nakigudde
 //first code cycle one
 
 /*assertEqual(multiply(1,1), 1);
