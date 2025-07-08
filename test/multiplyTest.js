@@ -1,10 +1,9 @@
-
 // Evelyn Uwase, Ojera Charity Faith, Darvin Nakigudde
 
-//here is the test file for the multiply function using TDD cycles
+// Test file for the multiply function using TDD cycles
+
 const { expect } = require("chai"); // Import the Chai assertion library
-// Import the multiply function from the module
-const multiply = require("../multiply"); 
+const multiply = require("../multiply"); // Import the multiply function
 
 // Mocha test suite for the multiply function
 describe("Multiply Function - TDD Cycles", () => {
