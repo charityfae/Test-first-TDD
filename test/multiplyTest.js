@@ -2,7 +2,7 @@
 // Evelyn Uwase, Ojera Charity Faith, Darvin Nakigudde
 
 const { expect } = require("chai");
-const multiply = require("../multiply"); // go up one level
+const multiply = require("../multiply"); 
 
 describe("Multiply Function - TDD Cycles", () => {
   it("Cycle 1: multiply(1, 1) should return 1", () => {
