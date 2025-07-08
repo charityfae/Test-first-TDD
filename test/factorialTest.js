@@ -1,4 +1,4 @@
-// factorial.test.js
+
 // Evelyn Uwase, Ojera Charity Faith, Darvin Nakigudde
 
 const { expect } = require("chai");

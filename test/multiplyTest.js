@@ -1,12 +1,15 @@
-// multiply.test.js
+
 // Evelyn Uwase, Ojera Charity Faith, Darvin Nakigudde
 
-const { expect } = require("chai");
-const multiply = require("../multiply"); // go up one level
+//here is the test file for the multiply function using TDD cycles
+const { expect } = require("chai"); // Import the Chai assertion library
+// Import the multiply function from the module
+const multiply = require("../multiply"); 
 
+// Mocha test suite for the multiply function
 describe("Multiply Function - TDD Cycles", () => {
   it("Cycle 1: multiply(1, 1) should return 1", () => {
-    expect(multiply(1, 1)).to.equal(1);
+    expect(multiply(1, 1)).to.equal(1); 
   });
 
   it("Cycle 2: multiply(2, 2) should return 4", () => {
