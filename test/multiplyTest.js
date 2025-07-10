@@ -1,4 +1,4 @@
-// Evelyn Uwase, Ojera Charity Faith, Darvin Nakigudde
+// Evelyne Uwase, Ojera Charity Faith, Darvin Nakigudde
 
 // Test file for the multiply function using TDD cycles
 
