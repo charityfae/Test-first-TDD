@@ -1,5 +1,5 @@
 // Fibonacci Function - TDD Cycles
-// Evelyn Uwase, Ojera Charity Faith, Darvin Nakigudde
+// Evelyne Uwase, Ojera Charity Faith, Darvin Nakigudde
 
 const { expect } = require("chai");
 const fibonacci = require("../fibonacci");

@@ -1,3 +1,4 @@
+// Evelyne Uwase, Ojera Charity Faith, Darvin Nakigudde
 const { expect } = require("chai");
 // eslint-disable-next-line no-unused-vars
 const { calculateTax } = require("../taxCalculator");
